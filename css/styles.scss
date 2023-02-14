@@ -1,0 +1,42 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    transition: all 0.4s ease;
+}
+
+a:hover {
+    color: orange;
+}
+
+.additional_task {
+    font-size: 0.8rem;
+}
+
+html,
+body {
+    height: 100vh;
+}
+
+.bg-c-blue {
+    background: rgba(93, 176, 248, 0.8);
+    color: white;
+}
+
+.bg-c-darkblue {
+    background: rgba(30, 76, 116, 0.7);
+    color: white;
+}
+
+.bg-c-yellow {
+    background: rgba(244, 181, 34, 1);
+    color: white;
+}
+
+.bg-c-red {
+    background: rgba(206, 66, 47, 0.7);
+    color: white;
+}
